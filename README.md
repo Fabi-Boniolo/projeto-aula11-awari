@@ -1,0 +1,3 @@
+- Criação de uma API utilizando Express.
+- Criação de rotas utilizando os principais métodos HTTP.
+- Criação de códigos de retorno.
